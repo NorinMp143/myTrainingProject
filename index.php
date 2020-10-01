@@ -125,6 +125,7 @@
                             AMOLED, 48 MP + 12 MP Dual Primary Cameras, LED Flash, 20 MP Front Camera<br>
                             <b>Price : 39,999 Rs</b>
                         </p><br>
+			    <p>This phone comeswith a brilliant display</p><br>
                         <button type="button" name="button" class="btn btn-primary btn-block">Order Now!</button>
                     </div>
                     
